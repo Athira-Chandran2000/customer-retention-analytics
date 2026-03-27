@@ -1,4 +1,4 @@
-```markdown
+
 # Customer Engagement & Product Utilization Analytics for Retention Strategy
 
 ## Executive Summary for Government Stakeholders
@@ -25,7 +25,7 @@ Customers categorized as "Inactive High-Balance" represent the highest flight ri
 
 ## Project Structure & Setup
 
-```text
+```
 customer-retention-analytics/
 │
 ├── data/
